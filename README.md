@@ -1,3 +1,13 @@
+# Version 0.1
+
+Application can define their privacy policy by four aspects:
+
+## What information we collect
+## How we use your information
+## How we share your information
+## What happen after delete information
+
+
 ## What we collect
 
 ### 1. Base informations
