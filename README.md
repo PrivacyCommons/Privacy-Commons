@@ -2,10 +2,17 @@
 
 Application can define their privacy policy by four aspects:
 
-## What information we collect
-## How we use your information
-## How we share your information
-## What happen after delete information
+- What information we collect
+- How we use your information
+- How we share your information
+- What happen after delete information
+
+For example
+
+1, 1, 1, 1 means 
+This application collect Base informatin, follow Base use, Base share and Base deletion.
+
+We will use icon like creative commons later
 
 
 ## What we collect
