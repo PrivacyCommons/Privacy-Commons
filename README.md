@@ -7,10 +7,9 @@ Application can define their privacy policy by four aspects:
 - How we share your information
 - What happen after delete information
 
-For example
+For example:
 
-1, 1, 1, 1 means 
-This application collect Base informatin, follow Base use, Base share and Base deletion.
+**1, 1, 1, 1 means This application collect Base informatin, follow Base use, Base share and Base deletion.**
 
 We will use icon like creative commons later
 
@@ -159,7 +158,7 @@ When you like, comment on or share another’s post, others will see it, includi
     We store data we collect as long as it is necessary. Even after you delete your account.
     
     
-##Reference
+## Reference
 
 [Airbnb](https://www.airbnb.com/terms/privacy_policy)
 
