@@ -61,6 +61,110 @@ Long version (for user want to know more about)
 
 - Using data to improve our products and personalize your experiences. 
 
+- Promote safety and security.
+
+- Communicate with you
+
+## Advanced use
+
+### Include Basic use
+
+- Advertising,  we use the information we have to improve our advertising and measurement systems so we can show you relevant ads.
+
+- Marketing, we use data and content about Members for invitations and communications promoting membership and network growth, engagement and our Services.
+
+## Extra use
+
+### Include Advanced use
+
+- Sell your data to Third-Party Partners and Customers
+
+    We will sell your data to third party business partners
+
+
+# How we share
+
+## Base share
+
+- People you share and communicate with.
+
+- People that see content others share about you.
+
+- Apps, websites and third-party integrations on or using our Services.
+
+## Advanced share
+
+### Inclued Base share
+
+- Corporate Affiliates.
+
+- Business Transfers.
+
+- Safety and Compliance with Law.
+
+## Extra share
+
+### Include Advanced share
+
+- Sharing With Third-Party Partners and Customers
+
+- Advertising, Measurement and Analytics Services
+
+# Information delete
+
+## Base deletion
+
+- Delete within 30days
+    
+## Advanced deletion
+
+- Recover data when we need
+
+## Extra deletion
+
+- keep data as long as possible
+
+
+
+## Long Version
+
+## Base informations
+
+- location data, device locations or Internet Protocol (IP) addresses
+- Browser type 
+- Language preference
+- Referring site
+- Device identifiers
+- Date and time of each visitor request.
+
+## Personal informations
+- **Base informations**
+- Full name
+- date of birth
+- gender, race
+- Email address 
+- Mobile number
+- Password
+- Profiles 
+- User Content
+
+
+## Sensitive informations
+- **Personal informations**
+- Credit card numbers
+- Face, fingerprints, handwriting
+- National ientification number
+- Passport number
+- Driver's license
+- Ethnicity, health info
+- Criminal history, or trade affiliations
+
+# How we use
+
+## Basic use
+
+- Using data to improve our products and personalize your experiences. 
+
     We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services. 
 
 - Promote safety and security.
