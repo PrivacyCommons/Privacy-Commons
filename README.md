@@ -18,7 +18,7 @@ We will use icon like creative commons later
 
 [Short Version](#short-version)
 
-Long version (for user want to know more about)
+[Long Version](#long-version)
 
 ## Short version
 
