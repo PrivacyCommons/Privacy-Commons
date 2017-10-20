@@ -9,12 +9,20 @@ Application can define their privacy policy by four aspects:
 
 For example:
 
-**1, 1, 1, 1 means This application collect Base informatin, follow Base use, Base share and Base deletion.**
+**W1-H1-S1-D1** 
+
+**This application collect Base information, use the information under the Base use situation. Only share information in Base share and follow Base deletion.**
 
 We will use icon like creative commons later
 
 
-# What we collect
+[Short Version](#short-version)
+
+Long version (for user want to know more about)
+
+## Short version
+
+# Information collect
 
 ## Base informations
 
