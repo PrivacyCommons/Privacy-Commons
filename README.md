@@ -1,4 +1,4 @@
-# Version 0.1
+# Privacy Commons Version 0.1
 
 Application can define their privacy policy by four aspects:
 
@@ -7,7 +7,7 @@ Application can define their privacy policy by four aspects:
 - How we share your information
 - What happen after delete information
 
-For example:
+Application can define their privacy policy at the beginning as:
 
 **W1-H1-S1-D1** 
 
