@@ -5,13 +5,13 @@ Application can define their privacy policy by four aspects:
 - What information we collect
 - How we use your information
 - How we share your information
-- What happen after delete information
+- What happens after information deletion
 
 Application can define their privacy policy at the beginning as:
 
 **W1-H1-S1-D1** 
 
-**This application collect Base information, use the information under the Base use situation. Only share information in Base share and follow Base deletion.**
+**This application collects Base information, use the information under the Base use situation. Only share information in Base share and follow Base deletion.**
 
 We will use icon like creative commons later
 
