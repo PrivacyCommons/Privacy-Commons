@@ -1,4 +1,4 @@
-(Please tell me if you can contect the owner of privacycommons.org :D)
+(Please tell me if you can contact the owner of privacycommons.org :D)
 
 # Version 0.1
 
