@@ -1,3 +1,5 @@
+(Please tell me if you can contect the owner of privacycommons.org :D)
+
 # Version 0.1
 
 Application can define their privacy policy by four aspects:
